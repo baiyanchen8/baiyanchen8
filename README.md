@@ -11,5 +11,5 @@ Actually I just write for fun.
 🔃 NCHU CSE Department Student Union member 2022/9~/2023/9 
 
 ## url
-[git page blog ](https://baiyanchen8.github.io)
+[git page blog ](https://baiyanchen8.github.io)\
 [hackmd](https://hackmd.io/@baiyanchen8)
